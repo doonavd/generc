@@ -1,0 +1,9 @@
+user sava persistence api instead!
+
+@Entity name属性代表表名
+
+@Id     表明当前的属性为主键
+
+@Column 映射到数据库的列
+
+@GeneratedValue @GenerationType  定义主键的生成策略
